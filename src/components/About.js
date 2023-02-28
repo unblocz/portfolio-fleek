@@ -6,7 +6,7 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
+                Lorem ipsum dolor sit amet consecteturI am very good,
                 adipisicing elit. Neque, pariatur odio.
                 Maxime, labore nihil illo ea voluptate suscipit aliquid animi
                 possimus laudantium fugit obcaecati harum?
